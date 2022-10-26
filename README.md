@@ -12,7 +12,7 @@ Bonjour, ça va ?
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />
 </div>  
 
 <br/>  
