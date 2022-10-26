@@ -2,7 +2,7 @@ Bonjour, ça va ?
 
 <br/>  
 
-
+Langages random que je connais (a peu près, genre faire une boucle de 1 à 10 et print "hello world")
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
