@@ -17,7 +17,6 @@
   </div>
  
   <br> 
-  <br>
 
   <tr>
       <td colspan="2" align="center">
