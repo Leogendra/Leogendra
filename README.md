@@ -9,24 +9,29 @@ Actuellement en première année de Doctorat (*thèse CIFRE chez Pradeo*). Dipl�
 
 ---
 
+Currently in the first year of a PhD (*CIFRE thesis at Pradeo*). I hold a **Master’s degree** in **Artificial Intelligence** and **Data Science**, and I’m passionate about building **Web** and **Python** applications.
+
+---
+
 <div align="center">
 
-# Langages et compétences techniques
+# Technical skills
 
-### Langages de Programmation
+### Programming languages  
 [![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,java)](https://skillicons.dev)
 
-### Front-End et Frameworks
+### Frontend and frameworks  
 [![SkillIcons](https://skillicons.dev/icons?i=js,jquery,react)](https://skillicons.dev)
 
-### Back-End et Bases de Données
+### Backend and databases  
 [![SkillIcons](https://skillicons.dev/icons?i=nodejs,php,firebase,mysql,mongodb)](https://skillicons.dev)
 
-### Web Design
+### Web design  
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
-### Outils et Environnements
+### Tools and environments  
 [![SkillIcons](https://skillicons.dev/icons?i=git,linux,latex,androidstudio)](https://skillicons.dev)
+
 
 ---
 
