@@ -18,19 +18,19 @@ Currently in the first year of a PhD (*CIFRE thesis at Pradeo*). I hold a **Mast
 # Technical skills
 
 ### Programming languages  
-[![SkillIcons](https://skillicons.dev/icons?i=py,c,cpp,java)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=py,java,c,cpp)](https://skillicons.dev)
 
 ### Frontend and frameworks  
-[![SkillIcons](https://skillicons.dev/icons?i=js,jquery,react)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,react,jquery)](https://skillicons.dev)
 
 ### Backend and databases  
-[![SkillIcons](https://skillicons.dev/icons?i=nodejs,php,firebase,mysql,mongodb)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=nodejs,php,mongodb,firebase,mysql)](https://skillicons.dev)
 
 ### Web design  
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
 ### Tools and environments  
-[![SkillIcons](https://skillicons.dev/icons?i=git,linux,latex,androidstudio)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=git,androidstudio,linux,latex)](https://skillicons.dev)
 
 
 ---
