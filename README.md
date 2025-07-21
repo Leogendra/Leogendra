@@ -37,7 +37,7 @@ Currently in the first year of a PhD (*CIFRE thesis at Pradeo*). I hold a **Mast
 
 <tr>
     <td colspan="10" align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leogendra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="center" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leogendra&theme=dark&hide_border=true&hide=typescript&include_all_commits=false&count_private=false&layout=compact" align="center" />
         <br/> <br/>
         <!-- <p> 
             <font size="4">Visitor count :</font>            <br>
