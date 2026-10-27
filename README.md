@@ -5,11 +5,11 @@
 [![Mon site](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://gatienh.fr)
 </div>
 
-Actuellement en première année de Doctorat (*thèse CIFRE chez Pradeo*). Diplômé d'un **Master 2** en **Intelligence Artificielle** et **Sciences des Données**, je suis passionné par la création d'applications **Web** ou **Python**.
+Actuellement en seconde année de Doctorat (*thèse CIFRE chez Pradeo*). Diplômé d'un **Master 2** en **Intelligence Artificielle** et **Sciences des Données**, je suis passionné par la création d'applications **Web** ou **Python**.
 
 ---
 
-Currently in the first year of a PhD (*CIFRE thesis at Pradeo*). I hold a **Master’s degree** in **Artificial Intelligence** and **Data Science**, and I’m passionate about building **Web** and **Python** applications.
+Currently in the second year of a PhD (*CIFRE thesis at Pradeo*). I hold a **Master’s degree** in **Artificial Intelligence** and **Data Science**, and I’m passionate about building **Web** and **Python** applications.
 
 ---
 
